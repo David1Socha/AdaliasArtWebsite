@@ -59,7 +59,18 @@ The workflow runs the checks, builds `dist/`, and publishes it. You can also upl
 - Build command: `node build.mjs`
 - Publish directory: `dist`
 
-The site expects to run at the domain root. If the domain changes, update `site.origin` in `content.json` and rebuild.
+The Pages workflow supplies its configured site URL to the build and checks, so repository paths such as `/AdaliasArtWebsite/` and custom domains both work. Local builds default to `site.origin` in `content.json`.
+
+To build and preview the repository path locally, use the same `SITE_URL` for all three commands:
+
+```powershell
+$env:SITE_URL = 'https://david1socha.github.io/AdaliasArtWebsite/'
+node build.mjs
+node check.mjs
+node preview.mjs
+```
+
+Open http://127.0.0.1:4173/AdaliasArtWebsite/. To return to the root preview, stop the server, remove the override with `Remove-Item Env:SITE_URL`, then rebuild and restart the preview.
 
 The main routes are `/`, `/commissions-1/`, `/testimonies/`, `/contact/`, `/work/digital-illustration/`, `/work/murals/`, `/work/portraits/`, and `/work/flowercrowns-8fcyp/`.
 

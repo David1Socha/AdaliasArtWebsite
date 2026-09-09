@@ -1,6 +1,7 @@
 import { readFile, writeFile, mkdir, cp } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import {siteConfig} from './site-config.mjs';
 
 const root = path.dirname(fileURLToPath(import.meta.url));
 const data = JSON.parse(await readFile(path.join(root, 'content.json'), 'utf8'));
@@ -8,23 +9,24 @@ const out = path.join(root, 'dist');
 await mkdir(out, { recursive: true });
 await cp(path.join(root, 'public'), out, { recursive: true });
 const {site, galleries} = data;
+const {siteUrl, localUrl} = siteConfig(site.origin);
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const link = (url, text, cls = '') => `<a href="${esc(url)}"${cls ? ` class="${cls}"` : ''}>${text}</a>`;
+const link = (url, text, cls = '') => `<a href="${esc(localUrl(url))}"${cls ? ` class="${cls}"` : ''}>${text}</a>`;
 const mail = subject => `mailto:${site.email}?subject=${encodeURIComponent(subject)}`;
-const img = (image, {alt=image.alt, eager=false, sizes='(max-width: 480px) 100vw, (max-width: 750px) 50vw, 33vw', cls=''}={}) => `<img src="/${esc(image.src)}"${image.small&&image.smallWidth!==image.width?` srcset="/${esc(image.small)} ${image.smallWidth}w, /${esc(image.src)} ${image.width}w" sizes="${sizes}"`:''} width="${image.width}" height="${image.height}" alt="${esc(alt)}" loading="${eager?'eager':'lazy'}" decoding="async"${eager?' fetchpriority="high"':''}${cls?` class="${cls}"`:''}>`;
+const img = (image, {alt=image.alt, eager=false, sizes='(max-width: 480px) 100vw, (max-width: 750px) 50vw, 33vw', cls=''}={}) => `<img src="${esc(localUrl('/'+image.src))}"${image.small&&image.smallWidth!==image.width?` srcset="${esc(localUrl('/'+image.small))} ${image.smallWidth}w, ${esc(localUrl('/'+image.src))} ${image.width}w" sizes="${sizes}"`:''} width="${image.width}" height="${image.height}" alt="${esc(alt)}" loading="${eager?'eager':'lazy'}" decoding="async"${eager?' fetchpriority="high"':''}${cls?` class="${cls}"`:''}>`;
 const arrow = '<span aria-hidden="true">↗</span>';
 const actions = (subject='Art commission inquiry') => `<div class="actions">${link(mail(subject), 'Email Adalia '+arrow, 'button')}${link('/contact/', 'What to include', 'text-link')}</div>`;
 const navItems = [['/','Work'],['/commissions-1/','Commissions'],['/testimonies/','Testimonies'],['/contact/','Contact']];
 function layout(title, description, route, body) {
   const active = route.startsWith('/work/') ? '/' : route;
-  const nav = navItems.map(([url,label])=>`<a href="${url}"${url===active?' aria-current="page"':''}>${label}</a>`).join('');
+  const nav = navItems.map(([url,label])=>`<a href="${esc(localUrl(url))}"${url===active?' aria-current="page"':''}>${label}</a>`).join('');
   return `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)}${title===site.name?'':` — ${esc(site.name)}`}</title><meta name="description" content="${esc(description)}">
-<link rel="canonical" href="${site.origin}${route==='/'?'':route.replace(/\/$/,'')}"><meta property="og:type" content="website"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(description)}"><meta property="og:url" content="${site.origin}${route}">
-<meta name="theme-color" content="#e9dced"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/fonts.css"><link rel="stylesheet" href="/style.css"><script src="/site.js" defer></script></head>
-<body><a class="skip-link" href="#main">Skip to content</a><header class="header"><a class="brand" href="/">${esc(site.name)}</a><button class="menu-toggle" aria-expanded="false" aria-controls="navigation" hidden>Menu <span aria-hidden="true">☰</span></button><nav id="navigation" aria-label="Main navigation">${nav}<div class="socials">${link(site.linkedin,'<span aria-hidden="true">in</span><span class="sr-only">Adalia on LinkedIn</span>','social')}${link(site.etsy,'<span aria-hidden="true">↗</span><span class="sr-only">Shop on Etsy</span>','social')}</div></nav></header>
-<main id="main">${body}</main><footer class="footer"><div><a class="footer-brand" href="/">Adalias.Art</a><p>Art & commissions · Omaha, Nebraska</p></div><nav aria-label="Footer navigation">${navItems.slice(1).map(([url,label])=>link(url,label)).join('')}</nav><div class="footer-contact">${link('mailto:'+site.email,esc(site.email))}<div class="footer-links">${link(site.etsy,'Shop on Etsy '+arrow)}${link(site.linkedin,'LinkedIn '+arrow)}</div></div></footer></body></html>`;
+<link rel="canonical" href="${siteUrl}${route==='/'?'':route.replace(/\/$/,'')}"><meta property="og:type" content="website"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(description)}"><meta property="og:url" content="${siteUrl}${route}">
+<meta name="theme-color" content="#e9dced"><link rel="icon" href="${localUrl('/favicon.svg')}" type="image/svg+xml"><link rel="stylesheet" href="${localUrl('/assets/fonts.css')}"><link rel="stylesheet" href="${localUrl('/style.css')}"><script src="${localUrl('/site.js')}" defer></script></head>
+<body><a class="skip-link" href="#main">Skip to content</a><header class="header"><a class="brand" href="${localUrl('/')}">${esc(site.name)}</a><button class="menu-toggle" aria-expanded="false" aria-controls="navigation" hidden>Menu <span aria-hidden="true">☰</span></button><nav id="navigation" aria-label="Main navigation">${nav}<div class="socials">${link(site.linkedin,'<span aria-hidden="true">in</span><span class="sr-only">Adalia on LinkedIn</span>','social')}${link(site.etsy,'<span aria-hidden="true">↗</span><span class="sr-only">Shop on Etsy</span>','social')}</div></nav></header>
+<main id="main">${body}</main><footer class="footer"><div><a class="footer-brand" href="${localUrl('/')}">Adalias.Art</a><p>Art & commissions · Omaha, Nebraska</p></div><nav aria-label="Footer navigation">${navItems.slice(1).map(([url,label])=>link(url,label)).join('')}</nav><div class="footer-contact">${link('mailto:'+site.email,esc(site.email))}<div class="footer-links">${link(site.etsy,'Shop on Etsy '+arrow)}${link(site.linkedin,'LinkedIn '+arrow)}</div></div></footer></body></html>`;
 }
 async function page(route, title, description, body) {
   const dir=path.join(out,route);await mkdir(dir,{recursive:true});
@@ -33,7 +35,7 @@ async function page(route, title, description, body) {
 function carousel(items, label, cls='') {
   return `<section class="carousel ${cls}" aria-label="${esc(label)}" data-carousel><div class="carousel-top"><h2>${esc(label)}</h2><div class="carousel-controls" hidden><button type="button" data-prev aria-label="Previous ${esc(label.toLowerCase())}">←</button><button type="button" data-next aria-label="Next ${esc(label.toLowerCase())}">→</button></div></div><div class="carousel-track" tabindex="0" aria-label="${esc(label)}; scroll to see more">${items.join('')}</div></section>`;
 }
-const home = `<section class="intro"><h1 class="sr-only">Adalia’s Art — artist in Omaha, Nebraska</h1><p>${esc(data.home.intro)}</p><p class="intro-shop">Like what you see? ${link(site.etsy,'Visit my Etsy store '+arrow)}</p></section><section class="portfolio" aria-label="Explore my work" style="--watercolor:url('/${data.home.background.src}')">${galleries.map((g,i)=>`<a class="portfolio-item" href="${g.path}/">${img(data.home.covers[i],{alt:'',eager:i===0,sizes:'100vw'})}<span>${esc(g.title)}</span><span class="portfolio-arrow" aria-hidden="true">↗</span></a>`).join('')}</section>`;
+const home = `<section class="intro"><h1 class="sr-only">Adalia’s Art — artist in Omaha, Nebraska</h1><p>${esc(data.home.intro)}</p><p class="intro-shop">Like what you see? ${link(site.etsy,'Visit my Etsy store '+arrow)}</p></section><section class="portfolio" aria-label="Explore my work" style="--watercolor:url('${localUrl('/'+data.home.background.src)}')">${galleries.map((g,i)=>`<a class="portfolio-item" href="${localUrl(g.path+'/')}">${img(data.home.covers[i],{alt:'',eager:i===0,sizes:'100vw'})}<span>${esc(g.title)}</span><span class="portfolio-arrow" aria-hidden="true">↗</span></a>`).join('')}</section>`;
 await page('/',site.name,'Adalia is an artist in Omaha, Nebraska creating digital illustrations, murals, custom portraits, and flower crowns.',home);
 
 const galleryCopy = {
@@ -62,6 +64,6 @@ await page('/contact/','Contact','Email Adalia about a custom art commission, mu
 
 await writeFile(path.join(out,'404.html'),layout('Page not found','Return to Adalia’s Art.','/404/',`<section class="not-found"><h1>This page isn’t here.</h1><p>Explore my artwork, or get in touch about a commission.</p>${link('/','View my work','button')}</section>`));
 const routes=['/','/commissions-1/','/testimonies/','/contact/',...galleries.map(g=>g.path+'/')];
-await writeFile(path.join(out,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${routes.map(r=>`<url><loc>${site.origin}${r==='/'?'':r.replace(/\/$/,'')}</loc></url>`).join('')}</urlset>`);
-await writeFile(path.join(out,'robots.txt'),`User-agent: *\nAllow: /\nSitemap: ${site.origin}/sitemap.xml\n`);
+await writeFile(path.join(out,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${routes.map(r=>`<url><loc>${siteUrl}${r==='/'?'':r.replace(/\/$/,'')}</loc></url>`).join('')}</urlset>`);
+await writeFile(path.join(out,'robots.txt'),`User-agent: *\nAllow: /\nSitemap: ${siteUrl}/sitemap.xml\n`);
 console.log(`Built ${routes.length} pages + 404 in ${out}`);
