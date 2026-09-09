@@ -1,1134 +1,1140 @@
 {
-  "site": {
-    "name": "Adalia’s Art",
-    "email": "adagirl13@gmail.com",
-    "etsy": "https://adaliasochaart.etsy.com",
-    "linkedin": "https://www.linkedin.com/in/adalia-h-socha-b29a38102/",
-    "origin": "https://www.adalias.art"
-  },
-  "home": {
-    "intro": "Adalia is a creative artist based in Omaha, NE. She’s known for her ethereal illustrations depicting everyday abstracts. Her work is appreciated for its stunning line accuracy and brilliant water colors.",
-    "background": {
-      "id": "7ba638412de7",
-      "src": "assets/7ba638412de7-1600.webp",
-      "small": "assets/7ba638412de7-640.webp",
-      "width": 1600,
-      "height": 1200,
-      "smallWidth": 640,
-      "alt": "",
-      "href": null
-    },
-    "covers": [
-      {
-        "id": "39be3977e912",
-        "src": "assets/39be3977e912-1600.webp",
-        "small": "assets/39be3977e912-640.webp",
-        "width": 1148,
-        "height": 1088,
-        "smallWidth": 640,
-        "alt": "Digital Illustration",
-        "href": null
-      },
-      {
-        "id": "23d835989230",
-        "src": "assets/23d835989230-1600.webp",
-        "small": "assets/23d835989230-640.webp",
-        "width": 1600,
-        "height": 1557,
-        "smallWidth": 640,
-        "alt": "Murals",
-        "href": null
-      },
-      {
-        "id": "d267246859f1",
-        "src": "assets/d267246859f1-1600.webp",
-        "small": "assets/d267246859f1-640.webp",
-        "width": 1592,
-        "height": 1600,
-        "smallWidth": 637,
-        "alt": "Portraits",
-        "href": null
-      },
-      {
-        "id": "9717d022b4be",
-        "src": "assets/9717d022b4be-1600.webp",
-        "small": "assets/9717d022b4be-640.webp",
-        "width": 1561,
-        "height": 1600,
-        "smallWidth": 625,
-        "alt": "Flower Crowns",
-        "href": null
-      }
-    ]
-  },
-  "galleries": [
-    {
-      "key": "digital",
-      "title": "Digital Illustration",
-      "path": "/work/digital-illustration",
-      "images": [
-        {
-          "id": "b7b89a83a7f8",
-          "src": "assets/b7b89a83a7f8-1600.webp",
-          "small": "assets/b7b89a83a7f8-640.webp",
-          "width": 1552,
-          "height": 1600,
-          "smallWidth": 621,
-          "alt": "Digital Illustration — artwork 1 by Adalia",
-          "href": null
-        },
-        {
-          "id": "ab1c0d9605b4",
-          "src": "assets/ab1c0d9605b4-1600.webp",
-          "small": "assets/ab1c0d9605b4-640.webp",
-          "width": 1060,
-          "height": 420,
-          "smallWidth": 640,
-          "alt": "Digital Illustration — artwork 2 by Adalia",
-          "href": "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
-        },
-        {
-          "id": "e6c8b889847e",
-          "src": "assets/e6c8b889847e-1600.webp",
-          "small": "assets/e6c8b889847e-640.webp",
-          "width": 1552,
-          "height": 1008,
-          "smallWidth": 640,
-          "alt": "Digital Illustration — artwork 3 by Adalia",
-          "href": null
-        },
-        {
-          "id": "85fbb08209ca",
-          "src": "assets/85fbb08209ca-1600.webp",
-          "small": "assets/85fbb08209ca-640.webp",
-          "width": 895,
-          "height": 901,
-          "smallWidth": 636,
-          "alt": "Digital Illustration — artwork 4 by Adalia",
-          "href": "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
-        },
-        {
-          "id": "837caf3d62d0",
-          "src": "assets/837caf3d62d0-1600.webp",
-          "small": "assets/837caf3d62d0-640.webp",
-          "width": 576,
-          "height": 802,
-          "smallWidth": 460,
-          "alt": "Digital Illustration — artwork 5 by Adalia",
-          "href": null
-        },
-        {
-          "id": "28eae142092e",
-          "src": "assets/28eae142092e-1600.webp",
-          "small": "assets/28eae142092e-640.webp",
-          "width": 1600,
-          "height": 1378,
-          "smallWidth": 640,
-          "alt": "Digital Illustration — artwork 6 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1890608579/yoga-creature-coloring-book-animal"
-        },
-        {
-          "id": "6baa7b610855",
-          "src": "assets/6baa7b610855-1600.webp",
-          "small": "assets/6baa7b610855-640.webp",
-          "width": 1200,
-          "height": 1600,
-          "smallWidth": 480,
-          "alt": "Digital Illustration — artwork 7 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1890608579/yoga-creature-coloring-book-animal"
-        },
-        {
-          "id": "ea9049bcb3c0",
-          "src": "assets/ea9049bcb3c0-1600.webp",
-          "small": "assets/ea9049bcb3c0-640.webp",
-          "width": 1447,
-          "height": 1447,
-          "smallWidth": 640,
-          "alt": "Digital Illustration — artwork 8 by Adalia",
-          "href": "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
-        },
-        {
-          "id": "f2f473aafd1e",
-          "src": "assets/f2f473aafd1e-1600.webp",
-          "small": "assets/f2f473aafd1e-640.webp",
-          "width": 1600,
-          "height": 538,
-          "smallWidth": 640,
-          "alt": "Digital Illustration — artwork 9 by Adalia",
-          "href": null
-        },
-        {
-          "id": "7e07511c8f2f",
-          "src": "assets/7e07511c8f2f-1600.webp",
-          "small": "assets/7e07511c8f2f-640.webp",
-          "width": 1600,
-          "height": 1600,
-          "smallWidth": 640,
-          "alt": "Digital Illustration — artwork 10 by Adalia",
-          "href": "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
-        },
-        {
-          "id": "5f353bab2d40",
-          "src": "assets/5f353bab2d40-1600.webp",
-          "small": "assets/5f353bab2d40-640.webp",
-          "width": 1600,
-          "height": 1586,
-          "smallWidth": 640,
-          "alt": "Digital Illustration — artwork 11 by Adalia",
-          "href": "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
-        },
-        {
-          "id": "cd5b8748f194",
-          "src": "assets/cd5b8748f194-1600.webp",
-          "small": "assets/cd5b8748f194-640.webp",
-          "width": 385,
-          "height": 617,
-          "smallWidth": 385,
-          "alt": "Digital Illustration — artwork 12 by Adalia",
-          "href": null
-        },
-        {
-          "id": "92fe6f706faf",
-          "src": "assets/92fe6f706faf-1600.webp",
-          "small": "assets/92fe6f706faf-640.webp",
-          "width": 369,
-          "height": 597,
-          "smallWidth": 369,
-          "alt": "Digital Illustration — artwork 13 by Adalia",
-          "href": null
-        },
-        {
-          "id": "e19a0b629daa",
-          "src": "assets/e19a0b629daa-1600.webp",
-          "small": "assets/e19a0b629daa-640.webp",
-          "width": 1600,
-          "height": 1600,
-          "smallWidth": 640,
-          "alt": "Digital Illustration — artwork 14 by Adalia",
-          "href": "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
-        },
-        {
-          "id": "aab1ea84d160",
-          "src": "assets/aab1ea84d160-1600.webp",
-          "small": "assets/aab1ea84d160-640.webp",
-          "width": 1170,
-          "height": 1146,
-          "smallWidth": 640,
-          "alt": "Digital Illustration — artwork 15 by Adalia",
-          "href": "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
-        },
-        {
-          "id": "1cd5152001a5",
-          "src": "assets/1cd5152001a5-1600.webp",
-          "small": "assets/1cd5152001a5-640.webp",
-          "width": 1106,
-          "height": 984,
-          "smallWidth": 640,
-          "alt": "Digital Illustration — artwork 16 by Adalia",
-          "href": null
-        },
-        {
-          "id": "b80000fa7710",
-          "src": "assets/b80000fa7710-1600.webp",
-          "small": "assets/b80000fa7710-640.webp",
-          "width": 1038,
-          "height": 994,
-          "smallWidth": 640,
-          "alt": "Digital Illustration — artwork 17 by Adalia",
-          "href": null
-        },
-        {
-          "id": "ef5b0c336a39",
-          "src": "assets/ef5b0c336a39-1600.webp",
-          "small": "assets/ef5b0c336a39-640.webp",
-          "width": 726,
-          "height": 969,
-          "smallWidth": 480,
-          "alt": "Digital Illustration — artwork 18 by Adalia",
-          "href": null
-        }
-      ],
-      "testimonials": [
-        "“Adalia uses color, form and design to bring joyful and expressive art!! It makes me smile everyday I see it! Her graphic art that represents my business always receives the highest compliments!” - Shannon F",
-        "“Adalia has always delivered beautiful work in a timely manner. She has diverse abilities and style. She has done a great job customizing her work to fit my desires. I love seeing all the work she’s done over the years for my wedding shower invites, on business cards, and around my home.” - CJ Radford",
-        "“Adalia did a fantastic job designing a logo and graphics for my website! Her lines and shapes formed clear and memorable visuals for my product needs. I would happily recommend her to anyone looking for top-notch digital artwork.” - David S",
-        "“Holy moly I love it!! This is the image from my brain space, you captured it beautifully, thank you Adalia!” -Emilee H, Owner of Root to Rise OT"
-      ]
-    },
-    {
-      "key": "murals",
-      "title": "Murals",
-      "path": "/work/murals",
-      "images": [
-        {
-          "id": "81ec9fa5e9c1",
-          "src": "assets/81ec9fa5e9c1-1600.webp",
-          "small": "assets/81ec9fa5e9c1-640.webp",
-          "width": 1200,
-          "height": 1600,
-          "smallWidth": 480,
-          "alt": "Murals — artwork 1 by Adalia",
-          "href": null
-        },
-        {
-          "id": "0eb4926e1b0b",
-          "src": "assets/0eb4926e1b0b-1600.webp",
-          "small": "assets/0eb4926e1b0b-640.webp",
-          "width": 1600,
-          "height": 1295,
-          "smallWidth": 640,
-          "alt": "Murals — artwork 2 by Adalia",
-          "href": null
-        },
-        {
-          "id": "74164ebbc03e",
-          "src": "assets/74164ebbc03e-1600.webp",
-          "small": "assets/74164ebbc03e-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Murals — artwork 3 by Adalia",
-          "href": null
-        },
-        {
-          "id": "6058ca6fd3e2",
-          "src": "assets/6058ca6fd3e2-1600.webp",
-          "small": "assets/6058ca6fd3e2-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Murals — artwork 4 by Adalia",
-          "href": null
-        },
-        {
-          "id": "efc1d5ea6222",
-          "src": "assets/efc1d5ea6222-1600.webp",
-          "small": "assets/efc1d5ea6222-640.webp",
-          "width": 789,
-          "height": 280,
-          "smallWidth": 640,
-          "alt": "Murals — artwork 5 by Adalia",
-          "href": null
-        },
-        {
-          "id": "c9107972d503",
-          "src": "assets/c9107972d503-1600.webp",
-          "small": "assets/c9107972d503-640.webp",
-          "width": 1600,
-          "height": 310,
-          "smallWidth": 640,
-          "alt": "Murals — artwork 6 by Adalia",
-          "href": null
-        },
-        {
-          "id": "33caf71fd1fa",
-          "src": "assets/33caf71fd1fa-1600.webp",
-          "small": "assets/33caf71fd1fa-640.webp",
-          "width": 1200,
-          "height": 1600,
-          "smallWidth": 480,
-          "alt": "Murals — artwork 7 by Adalia",
-          "href": null
-        },
-        {
-          "id": "2c037865d385",
-          "src": "assets/2c037865d385-1600.webp",
-          "small": "assets/2c037865d385-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Murals — artwork 8 by Adalia",
-          "href": null
-        },
-        {
-          "id": "638d4cc611e7",
-          "src": "assets/638d4cc611e7-1600.webp",
-          "small": "assets/638d4cc611e7-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Murals — artwork 9 by Adalia",
-          "href": null
-        },
-        {
-          "id": "d6336eebdc56",
-          "src": "assets/d6336eebdc56-1600.webp",
-          "small": "assets/d6336eebdc56-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Murals — artwork 10 by Adalia",
-          "href": null
-        },
-        {
-          "id": "49662dce0e36",
-          "src": "assets/49662dce0e36-1600.webp",
-          "small": "assets/49662dce0e36-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Murals — artwork 11 by Adalia",
-          "href": null
-        },
-        {
-          "id": "90741bdb1c40",
-          "src": "assets/90741bdb1c40-1600.webp",
-          "small": "assets/90741bdb1c40-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Murals — artwork 12 by Adalia",
-          "href": null
-        },
-        {
-          "id": "0bf178fadd0a",
-          "src": "assets/0bf178fadd0a-1600.webp",
-          "small": "assets/0bf178fadd0a-640.webp",
-          "width": 720,
-          "height": 960,
-          "smallWidth": 480,
-          "alt": "Murals — artwork 13 by Adalia",
-          "href": null
-        },
-        {
-          "id": "1bfc84755654",
-          "src": "assets/1bfc84755654-1600.webp",
-          "small": "assets/1bfc84755654-640.webp",
-          "width": 1200,
-          "height": 1600,
-          "smallWidth": 480,
-          "alt": "Murals — artwork 14 by Adalia",
-          "href": null
-        },
-        {
-          "id": "57599e0c3511",
-          "src": "assets/57599e0c3511-1600.webp",
-          "small": "assets/57599e0c3511-640.webp",
-          "width": 1200,
-          "height": 1600,
-          "smallWidth": 480,
-          "alt": "Murals — artwork 15 by Adalia",
-          "href": null
-        },
-        {
-          "id": "236e9e304ad7",
-          "src": "assets/236e9e304ad7-1600.webp",
-          "small": "assets/236e9e304ad7-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Murals — artwork 16 by Adalia",
-          "href": null
-        },
-        {
-          "id": "5a18eff58f23",
-          "src": "assets/5a18eff58f23-1600.webp",
-          "small": "assets/5a18eff58f23-640.webp",
-          "width": 1200,
-          "height": 1600,
-          "smallWidth": 480,
-          "alt": "Murals — artwork 17 by Adalia",
-          "href": null
-        }
-      ],
-      "testimonials": [
-        "\"Adalia was a delight to work with through the whole process of my mural! I needed a mural that fit a specific aesthetic for my shop - flat, graphic & colorful. She helped design, provided a mockup, always arrived on schedule & did the job with craftsmanship & cleanliness. She is very receptive to feedback through her artistic process & asked questions to make sure she was meeting my expectations! The mural has received many compliments & brings so much color & interest to the shop. If you're considering mural artists don't look any further, book with Adalia - you won't regret it!\" -  Julia McGuigan Owner of Julia M Illustrates",
-        "“Adalia collaborated with us over serval months to adorn our Benson cafe with her ethereal murals. She worked in a variety of mediums to fill the green and purple bathroom walls & ceilings with doodles of everything imaginable and made our wildest dreams for these spaces come true! “ - Adam & Rachel, Owners of Edge of the Universe Café",
-        "“Adalia was the first person I thought of when we needed a wall decorated for our wedding. She knows how to capture any vision so well. She even got to the venue early and completed the wall (beyond our wildest dreams amazing). I highly recommend her not only for her artistic and creative abilities, but for her can-do attitude and constant smiles!” - Hannah P",
-        "“Adalia painted a tree mural in my bedroom. I love its whimsical design, proportions in my space, and the feeling she created of being in a treehouse. She was able to incorporate materials I had on hand and completed the project within my desired timeline. Adalia is an excellent choice for any of your mural needs!” - Moriah C",
-        "We love it. Thank you Adalia! -Mike & Julie, Owners of Automatic Print Company"
-      ]
-    },
-    {
-      "key": "portraits",
-      "title": "Portraits",
-      "path": "/work/portraits",
-      "images": [
-        {
-          "id": "fc34afddbc25",
-          "src": "assets/fc34afddbc25-1600.webp",
-          "small": "assets/fc34afddbc25-640.webp",
-          "width": 1600,
-          "height": 1198,
-          "smallWidth": 640,
-          "alt": "Portraits — artwork 1 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "ef843ece0e9f",
-          "src": "assets/ef843ece0e9f-1600.webp",
-          "small": "assets/ef843ece0e9f-640.webp",
-          "width": 1599,
-          "height": 1232,
-          "smallWidth": 640,
-          "alt": "Portraits — artwork 2 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1890599495/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "2da903865864",
-          "src": "assets/2da903865864-1600.webp",
-          "small": "assets/2da903865864-640.webp",
-          "width": 1600,
-          "height": 1281,
-          "smallWidth": 640,
-          "alt": "Portraits — artwork 3 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "8a6b07a1a364",
-          "src": "assets/8a6b07a1a364-1600.webp",
-          "small": "assets/8a6b07a1a364-640.webp",
-          "width": 1331,
-          "height": 1600,
-          "smallWidth": 533,
-          "alt": "Portraits — artwork 4 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "0c8e55797cc4",
-          "src": "assets/0c8e55797cc4-1600.webp",
-          "small": "assets/0c8e55797cc4-640.webp",
-          "width": 1600,
-          "height": 1253,
-          "smallWidth": 640,
-          "alt": "Portraits — artwork 5 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1890599495/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "6d2d4f780251",
-          "src": "assets/6d2d4f780251-1600.webp",
-          "small": "assets/6d2d4f780251-640.webp",
-          "width": 604,
-          "height": 840,
-          "smallWidth": 460,
-          "alt": "Portraits — artwork 6 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "51620d4ebba8",
-          "src": "assets/51620d4ebba8-1600.webp",
-          "small": "assets/51620d4ebba8-640.webp",
-          "width": 644,
-          "height": 632,
-          "smallWidth": 640,
-          "alt": "Portraits — artwork 7 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "58940eb31c49",
-          "src": "assets/58940eb31c49-1600.webp",
-          "small": "assets/58940eb31c49-640.webp",
-          "width": 1592,
-          "height": 1600,
-          "smallWidth": 637,
-          "alt": "Portraits — artwork 8 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "fb69067f68a2",
-          "src": "assets/fb69067f68a2-1600.webp",
-          "small": "assets/fb69067f68a2-640.webp",
-          "width": 970,
-          "height": 1104,
-          "smallWidth": 562,
-          "alt": "Portraits — artwork 9 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "2bfdd3df2d56",
-          "src": "assets/2bfdd3df2d56-1600.webp",
-          "small": "assets/2bfdd3df2d56-640.webp",
-          "width": 1600,
-          "height": 1160,
-          "smallWidth": 640,
-          "alt": "Portraits — artwork 10 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "3613eb333a39",
-          "src": "assets/3613eb333a39-1600.webp",
-          "small": "assets/3613eb333a39-640.webp",
-          "width": 1402,
-          "height": 1040,
-          "smallWidth": 640,
-          "alt": "Portraits — artwork 11 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "06c0cee70513",
-          "src": "assets/06c0cee70513-1600.webp",
-          "small": "assets/06c0cee70513-640.webp",
-          "width": 1209,
-          "height": 1600,
-          "smallWidth": 484,
-          "alt": "Portraits — artwork 12 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "bba6094f594f",
-          "src": "assets/bba6094f594f-1600.webp",
-          "small": "assets/bba6094f594f-640.webp",
-          "width": 1115,
-          "height": 1600,
-          "smallWidth": 446,
-          "alt": "Portraits — artwork 13 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "7097ac8b29c8",
-          "src": "assets/7097ac8b29c8-1600.webp",
-          "small": "assets/7097ac8b29c8-640.webp",
-          "width": 1183,
-          "height": 1600,
-          "smallWidth": 473,
-          "alt": "Portraits — artwork 14 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "683b7486d195",
-          "src": "assets/683b7486d195-1600.webp",
-          "small": "assets/683b7486d195-640.webp",
-          "width": 1134,
-          "height": 1600,
-          "smallWidth": 454,
-          "alt": "Portraits — artwork 15 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "a8bb16e7875b",
-          "src": "assets/a8bb16e7875b-1600.webp",
-          "small": "assets/a8bb16e7875b-640.webp",
-          "width": 1021,
-          "height": 769,
-          "smallWidth": 640,
-          "alt": "Portraits — artwork 16 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "22a090005ab1",
-          "src": "assets/22a090005ab1-1600.webp",
-          "small": "assets/22a090005ab1-640.webp",
-          "width": 1600,
-          "height": 1508,
-          "smallWidth": 640,
-          "alt": "Portraits — artwork 17 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        },
-        {
-          "id": "e65ab07b64ea",
-          "src": "assets/e65ab07b64ea-1600.webp",
-          "small": "assets/e65ab07b64ea-640.webp",
-          "width": 1600,
-          "height": 1249,
-          "smallWidth": 640,
-          "alt": "Portraits — artwork 18 by Adalia",
-          "href": "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
-        }
-      ],
-      "testimonials": [
-        "“When I met Adalia, I immediately knew she was talented. She drew a custom commission piece of my dad and his mother who passed away. He still cherishes it to this day. She also drew a photo of my husband and I that I’ll personally treasure forever. I will be using her services again and would highly recommend her!” - Rosie G",
-        "“I am so pleased with Adalia’s creative watercolor portraits. She chose to emphasize hair and face shapes which made it simple and creatively unique. She is so talented!!” - Heidi F",
-        "“We are thrilled with the portrait drawing that Adalia did of my husband and I. We are so impressed with how she captured personality and character with a pencil. We could not ask for higher quality work! It literally is exactly what we were hoping it would be, and somehow even better. Thanks, Adalia.” - Cathie M",
-        "“I commissioned Adalia to draw my friend's daughter and her fiancé as a wedding gift. I wanted a gift that was truly unique, personal, and different than any other gift. The finished piece was exquisite! The drawing captured their personalities and love for each other in an amazing way. I could not have found a more perfect present for them and they loved it!” - Jane S"
-      ]
-    },
-    {
-      "key": "crowns",
-      "title": "Flower Crowns",
-      "path": "/work/flowercrowns-8fcyp",
-      "images": [
-        {
-          "id": "fecbe207de85",
-          "src": "assets/fecbe207de85-1600.webp",
-          "small": "assets/fecbe207de85-640.webp",
-          "width": 1200,
-          "height": 1600,
-          "smallWidth": 480,
-          "alt": "Flower Crowns — artwork 1 by Adalia",
-          "href": "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
-        },
-        {
-          "id": "277ed5d11286",
-          "src": "assets/277ed5d11286-1600.webp",
-          "small": "assets/277ed5d11286-640.webp",
-          "width": 1600,
-          "height": 1161,
-          "smallWidth": 640,
-          "alt": "Flower Crowns — artwork 2 by Adalia",
-          "href": "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
-        },
-        {
-          "id": "96fbc5550d3a",
-          "src": "assets/96fbc5550d3a-1600.webp",
-          "small": "assets/96fbc5550d3a-640.webp",
-          "width": 1200,
-          "height": 1600,
-          "smallWidth": 480,
-          "alt": "Flower Crowns — artwork 3 by Adalia",
-          "href": "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
-        },
-        {
-          "id": "191439568c99",
-          "src": "assets/191439568c99-1600.webp",
-          "small": "assets/191439568c99-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Flower Crowns — artwork 4 by Adalia",
-          "href": "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
-        },
-        {
-          "id": "ade00d672192",
-          "src": "assets/ade00d672192-1600.webp",
-          "small": "assets/ade00d672192-640.webp",
-          "width": 1080,
-          "height": 1080,
-          "smallWidth": 640,
-          "alt": "Flower Crowns — artwork 5 by Adalia",
-          "href": "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
-        },
-        {
-          "id": "28a5660edbc1",
-          "src": "assets/28a5660edbc1-1600.webp",
-          "small": "assets/28a5660edbc1-640.webp",
-          "width": 1080,
-          "height": 1080,
-          "smallWidth": 640,
-          "alt": "Flower Crowns — artwork 6 by Adalia",
-          "href": "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
-        },
-        {
-          "id": "276212b8516f",
-          "src": "assets/276212b8516f-1600.webp",
-          "small": "assets/276212b8516f-640.webp",
-          "width": 1600,
-          "height": 1576,
-          "smallWidth": 640,
-          "alt": "Flower Crowns — artwork 7 by Adalia",
-          "href": "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
-        },
-        {
-          "id": "a11e91a0c884",
-          "src": "assets/a11e91a0c884-1600.webp",
-          "small": "assets/a11e91a0c884-640.webp",
-          "width": 1298,
-          "height": 1600,
-          "smallWidth": 519,
-          "alt": "Flower Crowns — artwork 8 by Adalia",
-          "href": null
-        },
-        {
-          "id": "14b8255d182c",
-          "src": "assets/14b8255d182c-1600.webp",
-          "small": "assets/14b8255d182c-640.webp",
-          "width": 1410,
-          "height": 1600,
-          "smallWidth": 564,
-          "alt": "Flower Crowns — artwork 9 by Adalia",
-          "href": null
-        },
-        {
-          "id": "9abe0cb54c59",
-          "src": "assets/9abe0cb54c59-1600.webp",
-          "small": "assets/9abe0cb54c59-640.webp",
-          "width": 1455,
-          "height": 1600,
-          "smallWidth": 582,
-          "alt": "Flower Crowns — artwork 10 by Adalia",
-          "href": null
-        }
-      ],
-      "testimonials": []
-    }
-  ],
-  "commissions": {
-    "images": [
-      {
-        "id": "2308a99afaa5",
-        "src": "assets/2308a99afaa5-1600.webp",
-        "small": "assets/2308a99afaa5-640.webp",
-        "width": 702,
-        "height": 714,
-        "smallWidth": 629,
-        "alt": "Backyards — custom artwork by Adalia",
-        "title": "Backyards"
-      },
-      {
-        "id": "f2772fd7d89b",
-        "src": "assets/f2772fd7d89b-1600.webp",
-        "small": "assets/f2772fd7d89b-640.webp",
-        "width": 738,
-        "height": 606,
-        "smallWidth": 640,
-        "alt": "Home Decor — custom artwork by Adalia",
-        "title": "Home Decor"
-      },
-      {
-        "id": "a31b9de1a1e4",
-        "src": "assets/a31b9de1a1e4-1600.webp",
-        "small": "assets/a31b9de1a1e4-640.webp",
-        "width": 736,
-        "height": 788,
-        "smallWidth": 598,
-        "alt": "Illustrations — custom artwork by Adalia",
-        "title": "Illustrations"
-      },
-      {
-        "id": "3cfb08d324b8",
-        "src": "assets/3cfb08d324b8-1600.webp",
-        "small": "assets/3cfb08d324b8-640.webp",
-        "width": 686,
-        "height": 550,
-        "smallWidth": 640,
-        "alt": "Memories — custom artwork by Adalia",
-        "title": "Memories"
-      },
-      {
-        "id": "5acff015fdf4",
-        "src": "assets/5acff015fdf4-1600.webp",
-        "small": "assets/5acff015fdf4-640.webp",
-        "width": 344,
-        "height": 356,
-        "smallWidth": 344,
-        "alt": "Tattoo Design — custom artwork by Adalia",
-        "title": "Tattoo Design"
-      },
-      {
-        "id": "30a7398e6c2b",
-        "src": "assets/30a7398e6c2b-1600.webp",
-        "small": "assets/30a7398e6c2b-640.webp",
-        "width": 870,
-        "height": 728,
-        "smallWidth": 640,
-        "alt": "Business Decor — custom artwork by Adalia",
-        "title": "Business Decor"
-      },
-      {
-        "id": "75e9bcedb4d0",
-        "src": "assets/75e9bcedb4d0-1600.webp",
-        "small": "assets/75e9bcedb4d0-640.webp",
-        "width": 622,
-        "height": 402,
-        "smallWidth": 622,
-        "alt": "Animals — custom artwork by Adalia",
-        "title": "Animals"
-      },
-      {
-        "id": "9f735b76f6df",
-        "src": "assets/9f735b76f6df-1600.webp",
-        "small": "assets/9f735b76f6df-640.webp",
-        "width": 702,
-        "height": 656,
-        "smallWidth": 640,
-        "alt": "Homes — custom artwork by Adalia",
-        "title": "Homes"
-      }
-    ],
-    "introImages": [
-      {
-        "id": "3606ca234067",
-        "src": "assets/3606ca234067-1600.webp",
-        "small": "assets/3606ca234067-640.webp",
-        "width": 1600,
-        "height": 1115,
-        "smallWidth": 640,
-        "alt": "Custom artwork by Adalia",
-        "href": null
-      },
-      {
-        "id": "3cca8edb831f",
-        "src": "assets/3cca8edb831f-1600.webp",
-        "small": "assets/3cca8edb831f-640.webp",
-        "width": 1202,
-        "height": 1600,
-        "smallWidth": 481,
-        "alt": "Custom artwork by Adalia",
-        "href": null
-      }
-    ]
-  },
-  "testimonies": {
-    "featured": [
-      {
-        "quote": "\"Adalia was a delight to work with through the whole process of my mural! I needed a mural that fit a specific aesthetic for my shop - flat, graphic & colorful. She helped design, provided a mockup, always arrived on schedule & did the job with craftsmanship & cleanliness. She is very receptive to feedback through her artistic process & asked questions to make sure she was meeting my expectations! The mural has received many compliments & brings so much color & interest to the shop. If you're considering mural artists don't look any further, book with Adalia - you won't regret it!\"",
-        "credit": "-  Julia McGuigan Owner of Julia M Illustrates",
-        "links": [
-          {
-            "label": "Julia M Illustrates",
-            "href": "https://juliamillustrates.com"
-          }
-        ]
-      },
-      {
-        "quote": "When I met Adalia, I immediately knew she was talented. She drew a custom commission piece of my dad and his mother who passed away. He still cherishes it to this day. She also drew a photo of my husband and I that I’ll personally treasure forever. I will be using her services again and would highly recommend her!",
-        "credit": "- Rosie G",
-        "links": []
-      },
-      {
-        "quote": "Adalia collaborated with us over serval months to adorn our Benson cafe with her ethereal murals. She worked in a variety of mediums to fill the green and purple bathroom walls & ceilings with doodles of everything imaginable and made our wildest dreams for these spaces come true!",
-        "credit": "- Adam & Rachel Owners of Edge of the Universe Café",
-        "links": [
-          {
-            "label": "Edge of the Universe Café",
-            "href": "https://www.edgeoftheuniversebff.com"
-          }
-        ]
-      },
-      {
-        "quote": "Adalia uses color, form and design to bring joyful and expressive art!! It makes me smile everyday I see it! Her talented art that hangs on my walls always receives the highest compliments!",
-        "credit": "— Shannon F",
-        "links": []
-      }
-    ],
-    "featuredImages": [
-      {
-        "id": "fdf216209606",
-        "src": "assets/fdf216209606-1600.webp",
-        "small": "assets/fdf216209606-640.webp",
-        "width": 1600,
-        "height": 1557,
-        "smallWidth": 640,
-        "alt": "Commissioned artwork by Adalia",
-        "href": null
-      },
-      {
-        "id": "fa2a186f7bbd",
-        "src": "assets/fa2a186f7bbd-1600.webp",
-        "small": "assets/fa2a186f7bbd-640.webp",
-        "width": 1600,
-        "height": 1200,
-        "smallWidth": 640,
-        "alt": "Commissioned artwork by Adalia",
-        "href": null
-      },
-      {
-        "id": "335912af59a8",
-        "src": "assets/335912af59a8-1600.webp",
-        "small": "assets/335912af59a8-640.webp",
-        "width": 1197,
-        "height": 1600,
-        "smallWidth": 479,
-        "alt": "Commissioned artwork by Adalia",
-        "href": null
-      },
-      {
-        "id": "935530ad5dfc",
-        "src": "assets/935530ad5dfc-1600.webp",
-        "small": "assets/935530ad5dfc-640.webp",
-        "width": 1600,
-        "height": 1200,
-        "smallWidth": 640,
-        "alt": "Commissioned artwork by Adalia",
-        "href": null
-      },
-      {
-        "id": "37c6671bef4f",
-        "src": "assets/37c6671bef4f-1600.webp",
-        "small": "assets/37c6671bef4f-640.webp",
-        "width": 1200,
-        "height": 1600,
-        "smallWidth": 480,
-        "alt": "Commissioned artwork by Adalia",
-        "href": null
-      },
-      {
-        "id": "07276ca873e3",
-        "src": "assets/07276ca873e3-1600.webp",
-        "small": "assets/07276ca873e3-640.webp",
-        "width": 1600,
-        "height": 1200,
-        "smallWidth": 640,
-        "alt": "Commissioned artwork by Adalia",
-        "href": null
-      },
-      {
-        "id": "4eac05f9f826",
-        "src": "assets/4eac05f9f826-1600.webp",
-        "small": "assets/4eac05f9f826-640.webp",
-        "width": 1545,
-        "height": 1600,
-        "smallWidth": 618,
-        "alt": "Commissioned artwork by Adalia",
-        "href": null
-      },
-      {
-        "id": "5420133813ac",
-        "src": "assets/5420133813ac-1600.webp",
-        "small": "assets/5420133813ac-640.webp",
-        "width": 1600,
-        "height": 1534,
-        "smallWidth": 640,
-        "alt": "Commissioned artwork by Adalia",
-        "href": null
-      },
-      {
-        "id": "c9ff4f09adb6",
-        "src": "assets/c9ff4f09adb6-1600.webp",
-        "small": "assets/c9ff4f09adb6-640.webp",
-        "width": 1024,
-        "height": 1161,
-        "smallWidth": 564,
-        "alt": "Commissioned artwork by Adalia",
-        "href": null
-      }
-    ],
-    "more": [
-      {
-        "quote": "I am so pleased with Adalia’s creative watercolor portraits. She chose to emphasize hair and face shapes which made it simple and creatively unique. She is so talented!! - Heidi F",
-        "image": {
-          "id": "b1adb7127e3b",
-          "src": "assets/b1adb7127e3b-1600.webp",
-          "small": "assets/b1adb7127e3b-640.webp",
-          "width": 798,
-          "height": 894,
-          "smallWidth": 571,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      },
-      {
-        "quote": "Adalia took a meaningful photo of my husband and I and brought it to life through her artwork. She did an amazing job of recreating a special moment that we will always treasure. Adalia possess the unique ability to genuinely get to know her clients and tailor her artwork to their individual taste and needs. - Laura F",
-        "image": {
-          "id": "c5e0772a5a48",
-          "src": "assets/c5e0772a5a48-1600.webp",
-          "small": "assets/c5e0772a5a48-640.webp",
-          "width": 1211,
-          "height": 1600,
-          "smallWidth": 484,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      },
-      {
-        "quote": "Adalia has been a life-long friend and through the years, I’ve had the pleasure of watching her art transform and mature. She’s gifted me several pieces including pencil-sketched portraits of myself & my husband and I, some vibrant water color animals, and a painting of my husband and I’s new home. Each of Adalia’s pieces is as intricate as they are diverse in their media! What I love most about Adalia’s work is the feeling that she created it for me just by looking at it. No one else in the world has what she’s made - it is unique, original, and made with so much love and care. - Niki A",
-        "image": {
-          "id": "6af1f27ff32a",
-          "src": "assets/6af1f27ff32a-1600.webp",
-          "small": "assets/6af1f27ff32a-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      },
-      {
-        "quote": "We are thrilled with the portrait drawing that Adalia did of my husband and I. It’s impressive how she captured personality and character with just a pencil. We could not ask for higher quality work! It’s literally exactly what we were hoping it would be, and somehow even better. Thanks, Adalia. - Cathie M",
-        "image": {
-          "id": "95be35184c9f",
-          "src": "assets/95be35184c9f-1600.webp",
-          "small": "assets/95be35184c9f-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      },
-      {
-        "quote": "Adalia has always delivered beautiful work in a timely manner. She has diverse abilities and style. She has done a great job customizing her work to fit my desires. I love seeing all the work she’s done over the years for my wedding shower invites, on business cards, and around my home. - CJ Radford",
-        "image": {
-          "id": "67f91d587cfa",
-          "src": "assets/67f91d587cfa-1600.webp",
-          "small": "assets/67f91d587cfa-640.webp",
-          "width": 1409,
-          "height": 1600,
-          "smallWidth": 564,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      },
-      {
-        "quote": "Adalia was the first person I thought of when we needed a wall decorated for our wedding. She knows how to capture any vision so well. She even got to the venue early and completed the wall (beyond our wildest dreams amazing). I highly recommend her not only for her artistic and creative abilities, but for her can-do attitude and constant smiles! - Hannah P",
-        "image": {
-          "id": "578d33a413ef",
-          "src": "assets/578d33a413ef-1600.webp",
-          "small": "assets/578d33a413ef-640.webp",
-          "width": 1600,
-          "height": 1160,
-          "smallWidth": 640,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      },
-      {
-        "quote": "Adalia’s art is creative, beautiful, and timeless. I have several commissioned pieces of hers throughout my home in various mediums, which always receive notice and complements. I have also commissioned her to create art as gifts for friends. She is easy to work with, responsive, and timely, and her pieces are always loved by the recipients. Her artwork is a fantastic choice for your own needs and for unique gifts! - Moriah C",
-        "image": {
-          "id": "5de8a443f130",
-          "src": "assets/5de8a443f130-1600.webp",
-          "small": "assets/5de8a443f130-640.webp",
-          "width": 1600,
-          "height": 1200,
-          "smallWidth": 640,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      },
-      {
-        "quote": "Adalia did a fantastic job designing a logo and graphics for my website! Her lines and shapes formed clear and memorable visuals for my product needs. I would happily recommend her to anyone looking for top-notch digital artwork. - David S",
-        "image": {
-          "id": "0f0042c42da5",
-          "src": "assets/0f0042c42da5-1600.webp",
-          "small": "assets/0f0042c42da5-640.webp",
-          "width": 937,
-          "height": 741,
-          "smallWidth": 640,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      },
-      {
-        "quote": "I commissioned Adalia to draw my friend's daughter & her fiancé as a wedding gift. I wanted a gift that was truly unique, personal, and different than any other gift. The finished piece was exquisite! The drawing captured their personalities and love for each other in an amazing way. I could not have found a more perfect present for them and they loved it! - Jane S",
-        "image": {
-          "id": "bf706fc695fa",
-          "src": "assets/bf706fc695fa-1600.webp",
-          "small": "assets/bf706fc695fa-640.webp",
-          "width": 1600,
-          "height": 1169,
-          "smallWidth": 640,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      },
-      {
-        "quote": "Adalia was a delight to work with through the whole process of my mural!  She helped design, provided a mockup, always arrived on schedule and did the job with craftsmanship and cleanliness. She is very receptive to feedback through her artistic process and asked questions to make sure she was meeting the expectations I had in mind! If you're considering mural artists don't look any further, book with Adalia - you won't regret it! - Julia M",
-        "image": {
-          "id": "8f1f4586dafd",
-          "src": "assets/8f1f4586dafd-1600.webp",
-          "small": "assets/8f1f4586dafd-640.webp",
-          "width": 1200,
-          "height": 1600,
-          "smallWidth": 480,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      },
-      {
-        "quote": "“I absolutely love it!!!” -Payton M, Owner of Forged Woodworks",
-        "image": {
-          "id": "35466fc3a040",
-          "src": "assets/35466fc3a040-1600.webp",
-          "small": "assets/35466fc3a040-640.webp",
-          "width": 1121,
-          "height": 1600,
-          "smallWidth": 448,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      },
-      {
-        "quote": "Thank you so incredibly much for the beautiful piece of art! You captured the essence of our time in Omaha perfectly, encapsulating so many memories in one piece of art!  - Mackenzie H",
-        "image": {
-          "id": "6f0bdac31b8a",
-          "src": "assets/6f0bdac31b8a-1600.webp",
-          "small": "assets/6f0bdac31b8a-640.webp",
-          "width": 1600,
-          "height": 1185,
-          "smallWidth": 640,
-          "alt": "Commissioned artwork by Adalia"
-        }
-      }
-    ]
-  },
-  "contact": {
-    "image": {
-      "id": "652331d6ecf4",
-      "src": "assets/652331d6ecf4-1600.webp",
-      "small": "assets/652331d6ecf4-640.webp",
-      "width": 1202,
-      "height": 1600,
-      "smallWidth": 481,
-      "alt": "Adalia, artist based in Omaha, Nebraska",
-      "href": null
-    }
-  }
+    "site":  {
+                 "name":  "Adalia’s Art",
+                 "email":  "adagirl13@gmail.com",
+                 "etsy":  "https://adaliasochaart.etsy.com",
+                 "linkedin":  "https://www.linkedin.com/in/adalia-h-socha-b29a38102/",
+                 "origin":  "https://www.adalias.art"
+             },
+    "home":  {
+                 "intro":  "Adalia is a creative artist based in Omaha, NE. She’s known for her ethereal illustrations depicting everyday abstracts. Her work is appreciated for its stunning line accuracy and brilliant water colors.",
+                 "background":  {
+                                    "id":  "7ba638412de7",
+                                    "src":  "assets/7ba638412de7-1600.webp",
+                                    "small":  "assets/7ba638412de7-640.webp",
+                                    "width":  1600,
+                                    "height":  1200,
+                                    "smallWidth":  640,
+                                    "alt":  "",
+                                    "href":  null
+                                },
+                 "covers":  [
+                                {
+                                    "id":  "f2f473aafd1e",
+                                    "src":  "assets/f2f473aafd1e-1600.webp",
+                                    "small":  "assets/f2f473aafd1e-640.webp",
+                                    "width":  1600,
+                                    "height":  538,
+                                    "smallWidth":  640,
+                                    "alt":  "Digital Illustration — artwork 9 by Adalia",
+                                    "href":  null
+                                },
+                                {
+                                    "id":  "23d835989230",
+                                    "src":  "assets/23d835989230-1600.webp",
+                                    "small":  "assets/23d835989230-640.webp",
+                                    "width":  1600,
+                                    "height":  1557,
+                                    "smallWidth":  640,
+                                    "alt":  "Murals",
+                                    "href":  null
+                                },
+                                {
+                                    "id":  "d267246859f1",
+                                    "src":  "assets/d267246859f1-1600.webp",
+                                    "small":  "assets/d267246859f1-640.webp",
+                                    "width":  1592,
+                                    "height":  1600,
+                                    "smallWidth":  637,
+                                    "alt":  "Portraits",
+                                    "href":  null
+                                },
+                                {
+                                    "id":  "9717d022b4be",
+                                    "src":  "assets/9717d022b4be-1600.webp",
+                                    "small":  "assets/9717d022b4be-640.webp",
+                                    "width":  1561,
+                                    "height":  1600,
+                                    "smallWidth":  625,
+                                    "alt":  "Flower Crowns",
+                                    "href":  null
+                                }
+                            ]
+             },
+    "galleries":  [
+                      {
+                          "key":  "digital",
+                          "title":  "Digital Illustration",
+                          "path":  "/work/digital-illustration",
+                          "images":  [
+                                         {
+                                             "id":  "b7b89a83a7f8",
+                                             "src":  "assets/b7b89a83a7f8-1600.webp",
+                                             "small":  "assets/b7b89a83a7f8-640.webp",
+                                             "width":  1552,
+                                             "height":  1600,
+                                             "smallWidth":  621,
+                                             "alt":  "Digital Illustration — artwork 1 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "ab1c0d9605b4",
+                                             "src":  "assets/ab1c0d9605b4-1600.webp",
+                                             "small":  "assets/ab1c0d9605b4-640.webp",
+                                             "width":  1060,
+                                             "height":  420,
+                                             "smallWidth":  640,
+                                             "alt":  "Digital Illustration — artwork 2 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
+                                         },
+                                         {
+                                             "id":  "e6c8b889847e",
+                                             "src":  "assets/e6c8b889847e-1600.webp",
+                                             "small":  "assets/e6c8b889847e-640.webp",
+                                             "width":  1552,
+                                             "height":  1008,
+                                             "smallWidth":  640,
+                                             "alt":  "Digital Illustration — artwork 3 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "85fbb08209ca",
+                                             "src":  "assets/85fbb08209ca-1600.webp",
+                                             "small":  "assets/85fbb08209ca-640.webp",
+                                             "width":  895,
+                                             "height":  901,
+                                             "smallWidth":  636,
+                                             "alt":  "Digital Illustration — artwork 4 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
+                                         },
+                                         {
+                                             "id":  "837caf3d62d0",
+                                             "src":  "assets/837caf3d62d0-1600.webp",
+                                             "small":  "assets/837caf3d62d0-640.webp",
+                                             "width":  576,
+                                             "height":  802,
+                                             "smallWidth":  460,
+                                             "alt":  "Digital Illustration — artwork 5 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "28eae142092e",
+                                             "src":  "assets/28eae142092e-1600.webp",
+                                             "small":  "assets/28eae142092e-640.webp",
+                                             "width":  1600,
+                                             "height":  1378,
+                                             "smallWidth":  640,
+                                             "alt":  "Digital Illustration — artwork 6 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1890608579/yoga-creature-coloring-book-animal"
+                                         },
+                                         {
+                                             "id":  "6baa7b610855",
+                                             "src":  "assets/6baa7b610855-1600.webp",
+                                             "small":  "assets/6baa7b610855-640.webp",
+                                             "width":  1200,
+                                             "height":  1600,
+                                             "smallWidth":  480,
+                                             "alt":  "Digital Illustration — artwork 7 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1890608579/yoga-creature-coloring-book-animal"
+                                         },
+                                         {
+                                             "id":  "ea9049bcb3c0",
+                                             "src":  "assets/ea9049bcb3c0-1600.webp",
+                                             "small":  "assets/ea9049bcb3c0-640.webp",
+                                             "width":  1447,
+                                             "height":  1447,
+                                             "smallWidth":  640,
+                                             "alt":  "Digital Illustration — artwork 8 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
+                                         },
+                                         {
+                                             "id":  "f2f473aafd1e",
+                                             "src":  "assets/f2f473aafd1e-1600.webp",
+                                             "small":  "assets/f2f473aafd1e-640.webp",
+                                             "width":  1600,
+                                             "height":  538,
+                                             "smallWidth":  640,
+                                             "alt":  "Digital Illustration — artwork 9 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "7e07511c8f2f",
+                                             "src":  "assets/7e07511c8f2f-1600.webp",
+                                             "small":  "assets/7e07511c8f2f-640.webp",
+                                             "width":  1600,
+                                             "height":  1600,
+                                             "smallWidth":  640,
+                                             "alt":  "Digital Illustration — artwork 10 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
+                                         },
+                                         {
+                                             "id":  "5f353bab2d40",
+                                             "src":  "assets/5f353bab2d40-1600.webp",
+                                             "small":  "assets/5f353bab2d40-640.webp",
+                                             "width":  1600,
+                                             "height":  1586,
+                                             "smallWidth":  640,
+                                             "alt":  "Digital Illustration — artwork 11 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
+                                         },
+                                         {
+                                             "id":  "cd5b8748f194",
+                                             "src":  "assets/cd5b8748f194-1600.webp",
+                                             "small":  "assets/cd5b8748f194-640.webp",
+                                             "width":  385,
+                                             "height":  617,
+                                             "smallWidth":  385,
+                                             "alt":  "Digital Illustration — artwork 12 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "92fe6f706faf",
+                                             "src":  "assets/92fe6f706faf-1600.webp",
+                                             "small":  "assets/92fe6f706faf-640.webp",
+                                             "width":  369,
+                                             "height":  597,
+                                             "smallWidth":  369,
+                                             "alt":  "Digital Illustration — artwork 13 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "e19a0b629daa",
+                                             "src":  "assets/e19a0b629daa-1600.webp",
+                                             "small":  "assets/e19a0b629daa-640.webp",
+                                             "width":  1600,
+                                             "height":  1600,
+                                             "smallWidth":  640,
+                                             "alt":  "Digital Illustration — artwork 14 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
+                                         },
+                                         {
+                                             "id":  "aab1ea84d160",
+                                             "src":  "assets/aab1ea84d160-1600.webp",
+                                             "small":  "assets/aab1ea84d160-640.webp",
+                                             "width":  1170,
+                                             "height":  1146,
+                                             "smallWidth":  640,
+                                             "alt":  "Digital Illustration — artwork 15 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876524922/custom-hand-drawn-logo-logo-for-business"
+                                         },
+                                         {
+                                             "id":  "1cd5152001a5",
+                                             "src":  "assets/1cd5152001a5-1600.webp",
+                                             "small":  "assets/1cd5152001a5-640.webp",
+                                             "width":  1106,
+                                             "height":  984,
+                                             "smallWidth":  640,
+                                             "alt":  "Digital Illustration — artwork 16 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "b80000fa7710",
+                                             "src":  "assets/b80000fa7710-1600.webp",
+                                             "small":  "assets/b80000fa7710-640.webp",
+                                             "width":  1038,
+                                             "height":  994,
+                                             "smallWidth":  640,
+                                             "alt":  "Digital Illustration — artwork 17 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "ef5b0c336a39",
+                                             "src":  "assets/ef5b0c336a39-1600.webp",
+                                             "small":  "assets/ef5b0c336a39-640.webp",
+                                             "width":  726,
+                                             "height":  969,
+                                             "smallWidth":  480,
+                                             "alt":  "Digital Illustration — artwork 18 by Adalia",
+                                             "href":  null
+                                         }
+                                     ],
+                          "testimonials":  [
+                                               "“Adalia uses color, form and design to bring joyful and expressive art!! It makes me smile everyday I see it! Her graphic art that represents my business always receives the highest compliments!” - Shannon F",
+                                               "“Adalia has always delivered beautiful work in a timely manner. She has diverse abilities and style. She has done a great job customizing her work to fit my desires. I love seeing all the work she’s done over the years for my wedding shower invites, on business cards, and around my home.” - CJ Radford",
+                                               "“Adalia did a fantastic job designing a logo and graphics for my website! Her lines and shapes formed clear and memorable visuals for my product needs. I would happily recommend her to anyone looking for top-notch digital artwork.” - David S",
+                                               "“Holy moly I love it!! This is the image from my brain space, you captured it beautifully, thank you Adalia!” -Emilee H, Owner of Root to Rise OT"
+                                           ]
+                      },
+                      {
+                          "key":  "murals",
+                          "title":  "Murals",
+                          "path":  "/work/murals",
+                          "images":  [
+                                         {
+                                             "id":  "81ec9fa5e9c1",
+                                             "src":  "assets/81ec9fa5e9c1-1600.webp",
+                                             "small":  "assets/81ec9fa5e9c1-640.webp",
+                                             "width":  1200,
+                                             "height":  1600,
+                                             "smallWidth":  480,
+                                             "alt":  "Murals — artwork 1 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "0eb4926e1b0b",
+                                             "src":  "assets/0eb4926e1b0b-1600.webp",
+                                             "small":  "assets/0eb4926e1b0b-640.webp",
+                                             "width":  1600,
+                                             "height":  1295,
+                                             "smallWidth":  640,
+                                             "alt":  "Murals — artwork 2 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "74164ebbc03e",
+                                             "src":  "assets/74164ebbc03e-1600.webp",
+                                             "small":  "assets/74164ebbc03e-640.webp",
+                                             "width":  1600,
+                                             "height":  1200,
+                                             "smallWidth":  640,
+                                             "alt":  "Murals — artwork 3 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "6058ca6fd3e2",
+                                             "src":  "assets/6058ca6fd3e2-1600.webp",
+                                             "small":  "assets/6058ca6fd3e2-640.webp",
+                                             "width":  1600,
+                                             "height":  1200,
+                                             "smallWidth":  640,
+                                             "alt":  "Murals — artwork 4 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "efc1d5ea6222",
+                                             "src":  "assets/efc1d5ea6222-1600.webp",
+                                             "small":  "assets/efc1d5ea6222-640.webp",
+                                             "width":  789,
+                                             "height":  280,
+                                             "smallWidth":  640,
+                                             "alt":  "Murals — artwork 5 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "c9107972d503",
+                                             "src":  "assets/c9107972d503-1600.webp",
+                                             "small":  "assets/c9107972d503-640.webp",
+                                             "width":  1600,
+                                             "height":  310,
+                                             "smallWidth":  640,
+                                             "alt":  "Murals — artwork 6 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "33caf71fd1fa",
+                                             "src":  "assets/33caf71fd1fa-1600.webp",
+                                             "small":  "assets/33caf71fd1fa-640.webp",
+                                             "width":  1200,
+                                             "height":  1600,
+                                             "smallWidth":  480,
+                                             "alt":  "Murals — artwork 7 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "2c037865d385",
+                                             "src":  "assets/2c037865d385-1600.webp",
+                                             "small":  "assets/2c037865d385-640.webp",
+                                             "width":  1600,
+                                             "height":  1200,
+                                             "smallWidth":  640,
+                                             "alt":  "Murals — artwork 8 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "638d4cc611e7",
+                                             "src":  "assets/638d4cc611e7-1600.webp",
+                                             "small":  "assets/638d4cc611e7-640.webp",
+                                             "width":  1600,
+                                             "height":  1200,
+                                             "smallWidth":  640,
+                                             "alt":  "Murals — artwork 9 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "d6336eebdc56",
+                                             "src":  "assets/d6336eebdc56-1600.webp",
+                                             "small":  "assets/d6336eebdc56-640.webp",
+                                             "width":  1600,
+                                             "height":  1200,
+                                             "smallWidth":  640,
+                                             "alt":  "Murals — artwork 10 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "49662dce0e36",
+                                             "src":  "assets/49662dce0e36-1600.webp",
+                                             "small":  "assets/49662dce0e36-640.webp",
+                                             "width":  1600,
+                                             "height":  1200,
+                                             "smallWidth":  640,
+                                             "alt":  "Murals — artwork 11 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "90741bdb1c40",
+                                             "src":  "assets/90741bdb1c40-1600.webp",
+                                             "small":  "assets/90741bdb1c40-640.webp",
+                                             "width":  1600,
+                                             "height":  1200,
+                                             "smallWidth":  640,
+                                             "alt":  "Murals — artwork 12 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "0bf178fadd0a",
+                                             "src":  "assets/0bf178fadd0a-1600.webp",
+                                             "small":  "assets/0bf178fadd0a-640.webp",
+                                             "width":  720,
+                                             "height":  960,
+                                             "smallWidth":  480,
+                                             "alt":  "Murals — artwork 13 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "1bfc84755654",
+                                             "src":  "assets/1bfc84755654-1600.webp",
+                                             "small":  "assets/1bfc84755654-640.webp",
+                                             "width":  1200,
+                                             "height":  1600,
+                                             "smallWidth":  480,
+                                             "alt":  "Murals — artwork 14 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "57599e0c3511",
+                                             "src":  "assets/57599e0c3511-1600.webp",
+                                             "small":  "assets/57599e0c3511-640.webp",
+                                             "width":  1200,
+                                             "height":  1600,
+                                             "smallWidth":  480,
+                                             "alt":  "Murals — artwork 15 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "236e9e304ad7",
+                                             "src":  "assets/236e9e304ad7-1600.webp",
+                                             "small":  "assets/236e9e304ad7-640.webp",
+                                             "width":  1600,
+                                             "height":  1200,
+                                             "smallWidth":  640,
+                                             "alt":  "Murals — artwork 16 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "5a18eff58f23",
+                                             "src":  "assets/5a18eff58f23-1600.webp",
+                                             "small":  "assets/5a18eff58f23-640.webp",
+                                             "width":  1200,
+                                             "height":  1600,
+                                             "smallWidth":  480,
+                                             "alt":  "Murals — artwork 17 by Adalia",
+                                             "href":  null
+                                         }
+                                     ],
+                          "testimonials":  [
+                                               "\"Adalia was a delight to work with through the whole process of my mural! I needed a mural that fit a specific aesthetic for my shop - flat, graphic \u0026 colorful. She helped design, provided a mockup, always arrived on schedule \u0026 did the job with craftsmanship \u0026 cleanliness. She is very receptive to feedback through her artistic process \u0026 asked questions to make sure she was meeting my expectations! The mural has received many compliments \u0026 brings so much color \u0026 interest to the shop. If you\u0027re considering mural artists don\u0027t look any further, book with Adalia - you won\u0027t regret it!\" -  Julia McGuigan Owner of Julia M Illustrates",
+                                               "“Adalia collaborated with us over serval months to adorn our Benson cafe with her ethereal murals. She worked in a variety of mediums to fill the green and purple bathroom walls & ceilings with doodles of everything imaginable and made our wildest dreams for these spaces come true! “ - Adam & Rachel, Owners of Edge of the Universe Café",
+                                               "“Adalia was the first person I thought of when we needed a wall decorated for our wedding. She knows how to capture any vision so well. She even got to the venue early and completed the wall (beyond our wildest dreams amazing). I highly recommend her not only for her artistic and creative abilities, but for her can-do attitude and constant smiles!” - Hannah P",
+                                               "“Adalia painted a tree mural in my bedroom. I love its whimsical design, proportions in my space, and the feeling she created of being in a treehouse. She was able to incorporate materials I had on hand and completed the project within my desired timeline. Adalia is an excellent choice for any of your mural needs!” - Moriah C",
+                                               "We love it. Thank you Adalia! -Mike \u0026 Julie, Owners of Automatic Print Company"
+                                           ]
+                      },
+                      {
+                          "key":  "portraits",
+                          "title":  "Portraits",
+                          "path":  "/work/portraits",
+                          "images":  [
+                                         {
+                                             "id":  "fc34afddbc25",
+                                             "src":  "assets/fc34afddbc25-1600.webp",
+                                             "small":  "assets/fc34afddbc25-640.webp",
+                                             "width":  1600,
+                                             "height":  1198,
+                                             "smallWidth":  640,
+                                             "alt":  "Portraits — artwork 1 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "ef843ece0e9f",
+                                             "src":  "assets/ef843ece0e9f-1600.webp",
+                                             "small":  "assets/ef843ece0e9f-640.webp",
+                                             "width":  1599,
+                                             "height":  1232,
+                                             "smallWidth":  640,
+                                             "alt":  "Portraits — artwork 2 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1890599495/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "2da903865864",
+                                             "src":  "assets/2da903865864-1600.webp",
+                                             "small":  "assets/2da903865864-640.webp",
+                                             "width":  1600,
+                                             "height":  1281,
+                                             "smallWidth":  640,
+                                             "alt":  "Portraits — artwork 3 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "8a6b07a1a364",
+                                             "src":  "assets/8a6b07a1a364-1600.webp",
+                                             "small":  "assets/8a6b07a1a364-640.webp",
+                                             "width":  1331,
+                                             "height":  1600,
+                                             "smallWidth":  533,
+                                             "alt":  "Portraits — artwork 4 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "0c8e55797cc4",
+                                             "src":  "assets/0c8e55797cc4-1600.webp",
+                                             "small":  "assets/0c8e55797cc4-640.webp",
+                                             "width":  1600,
+                                             "height":  1253,
+                                             "smallWidth":  640,
+                                             "alt":  "Portraits — artwork 5 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1890599495/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "6d2d4f780251",
+                                             "src":  "assets/6d2d4f780251-1600.webp",
+                                             "small":  "assets/6d2d4f780251-640.webp",
+                                             "width":  604,
+                                             "height":  840,
+                                             "smallWidth":  460,
+                                             "alt":  "Portraits — artwork 6 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "51620d4ebba8",
+                                             "src":  "assets/51620d4ebba8-1600.webp",
+                                             "small":  "assets/51620d4ebba8-640.webp",
+                                             "width":  644,
+                                             "height":  632,
+                                             "smallWidth":  640,
+                                             "alt":  "Portraits — artwork 7 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "58940eb31c49",
+                                             "src":  "assets/58940eb31c49-1600.webp",
+                                             "small":  "assets/58940eb31c49-640.webp",
+                                             "width":  1592,
+                                             "height":  1600,
+                                             "smallWidth":  637,
+                                             "alt":  "Portraits — artwork 8 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "fb69067f68a2",
+                                             "src":  "assets/fb69067f68a2-1600.webp",
+                                             "small":  "assets/fb69067f68a2-640.webp",
+                                             "width":  970,
+                                             "height":  1104,
+                                             "smallWidth":  562,
+                                             "alt":  "Portraits — artwork 9 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "2bfdd3df2d56",
+                                             "src":  "assets/2bfdd3df2d56-1600.webp",
+                                             "small":  "assets/2bfdd3df2d56-640.webp",
+                                             "width":  1600,
+                                             "height":  1160,
+                                             "smallWidth":  640,
+                                             "alt":  "Portraits — artwork 10 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "3613eb333a39",
+                                             "src":  "assets/3613eb333a39-1600.webp",
+                                             "small":  "assets/3613eb333a39-640.webp",
+                                             "width":  1402,
+                                             "height":  1040,
+                                             "smallWidth":  640,
+                                             "alt":  "Portraits — artwork 11 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "06c0cee70513",
+                                             "src":  "assets/06c0cee70513-1600.webp",
+                                             "small":  "assets/06c0cee70513-640.webp",
+                                             "width":  1209,
+                                             "height":  1600,
+                                             "smallWidth":  484,
+                                             "alt":  "Portraits — artwork 12 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "bba6094f594f",
+                                             "src":  "assets/bba6094f594f-1600.webp",
+                                             "small":  "assets/bba6094f594f-640.webp",
+                                             "width":  1115,
+                                             "height":  1600,
+                                             "smallWidth":  446,
+                                             "alt":  "Portraits — artwork 13 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "7097ac8b29c8",
+                                             "src":  "assets/7097ac8b29c8-1600.webp",
+                                             "small":  "assets/7097ac8b29c8-640.webp",
+                                             "width":  1183,
+                                             "height":  1600,
+                                             "smallWidth":  473,
+                                             "alt":  "Portraits — artwork 14 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "683b7486d195",
+                                             "src":  "assets/683b7486d195-1600.webp",
+                                             "small":  "assets/683b7486d195-640.webp",
+                                             "width":  1134,
+                                             "height":  1600,
+                                             "smallWidth":  454,
+                                             "alt":  "Portraits — artwork 15 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "a8bb16e7875b",
+                                             "src":  "assets/a8bb16e7875b-1600.webp",
+                                             "small":  "assets/a8bb16e7875b-640.webp",
+                                             "width":  1021,
+                                             "height":  769,
+                                             "smallWidth":  640,
+                                             "alt":  "Portraits — artwork 16 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "22a090005ab1",
+                                             "src":  "assets/22a090005ab1-1600.webp",
+                                             "small":  "assets/22a090005ab1-640.webp",
+                                             "width":  1600,
+                                             "height":  1508,
+                                             "smallWidth":  640,
+                                             "alt":  "Portraits — artwork 17 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         },
+                                         {
+                                             "id":  "e65ab07b64ea",
+                                             "src":  "assets/e65ab07b64ea-1600.webp",
+                                             "small":  "assets/e65ab07b64ea-640.webp",
+                                             "width":  1600,
+                                             "height":  1249,
+                                             "smallWidth":  640,
+                                             "alt":  "Portraits — artwork 18 by Adalia",
+                                             "href":  "https://adaliasochaart.etsy.com/listing/1876403668/custom-painting-from-photo-personalized"
+                                         }
+                                     ],
+                          "testimonials":  [
+                                               "“When I met Adalia, I immediately knew she was talented. She drew a custom commission piece of my dad and his mother who passed away. He still cherishes it to this day. She also drew a photo of my husband and I that I’ll personally treasure forever. I will be using her services again and would highly recommend her!” - Rosie G",
+                                               "“I am so pleased with Adalia’s creative watercolor portraits. She chose to emphasize hair and face shapes which made it simple and creatively unique. She is so talented!!” - Heidi F",
+                                               "“We are thrilled with the portrait drawing that Adalia did of my husband and I. We are so impressed with how she captured personality and character with a pencil. We could not ask for higher quality work! It literally is exactly what we were hoping it would be, and somehow even better. Thanks, Adalia.” - Cathie M",
+                                               "“I commissioned Adalia to draw my friend's daughter and her fiancé as a wedding gift. I wanted a gift that was truly unique, personal, and different than any other gift. The finished piece was exquisite! The drawing captured their personalities and love for each other in an amazing way. I could not have found a more perfect present for them and they loved it!” - Jane S"
+                                           ]
+                      },
+                      {
+                          "key":  "crowns",
+                          "title":  "Flower Crowns",
+                          "path":  "/work/flowercrowns-8fcyp",
+                          "images":  [
+                                         {
+                                             "id":  "fecbe207de85",
+                                             "src":  "assets/fecbe207de85-1600.webp",
+                                             "small":  "assets/fecbe207de85-640.webp",
+                                             "width":  1200,
+                                             "height":  1600,
+                                             "smallWidth":  480,
+                                             "alt":  "Flower Crowns — artwork 1 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
+                                         },
+                                         {
+                                             "id":  "277ed5d11286",
+                                             "src":  "assets/277ed5d11286-1600.webp",
+                                             "small":  "assets/277ed5d11286-640.webp",
+                                             "width":  1600,
+                                             "height":  1161,
+                                             "smallWidth":  640,
+                                             "alt":  "Flower Crowns — artwork 2 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
+                                         },
+                                         {
+                                             "id":  "96fbc5550d3a",
+                                             "src":  "assets/96fbc5550d3a-1600.webp",
+                                             "small":  "assets/96fbc5550d3a-640.webp",
+                                             "width":  1200,
+                                             "height":  1600,
+                                             "smallWidth":  480,
+                                             "alt":  "Flower Crowns — artwork 3 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
+                                         },
+                                         {
+                                             "id":  "191439568c99",
+                                             "src":  "assets/191439568c99-1600.webp",
+                                             "small":  "assets/191439568c99-640.webp",
+                                             "width":  1600,
+                                             "height":  1200,
+                                             "smallWidth":  640,
+                                             "alt":  "Flower Crowns — artwork 4 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
+                                         },
+                                         {
+                                             "id":  "ade00d672192",
+                                             "src":  "assets/ade00d672192-1600.webp",
+                                             "small":  "assets/ade00d672192-640.webp",
+                                             "width":  1080,
+                                             "height":  1080,
+                                             "smallWidth":  640,
+                                             "alt":  "Flower Crowns — artwork 5 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
+                                         },
+                                         {
+                                             "id":  "28a5660edbc1",
+                                             "src":  "assets/28a5660edbc1-1600.webp",
+                                             "small":  "assets/28a5660edbc1-640.webp",
+                                             "width":  1080,
+                                             "height":  1080,
+                                             "smallWidth":  640,
+                                             "alt":  "Flower Crowns — artwork 6 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
+                                         },
+                                         {
+                                             "id":  "276212b8516f",
+                                             "src":  "assets/276212b8516f-1600.webp",
+                                             "small":  "assets/276212b8516f-640.webp",
+                                             "width":  1600,
+                                             "height":  1576,
+                                             "smallWidth":  640,
+                                             "alt":  "Flower Crowns — artwork 7 by Adalia",
+                                             "href":  "https://www.etsy.com/listing/1876502098/flower-crown-flower-tiara-floral-crown"
+                                         },
+                                         {
+                                             "id":  "a11e91a0c884",
+                                             "src":  "assets/a11e91a0c884-1600.webp",
+                                             "small":  "assets/a11e91a0c884-640.webp",
+                                             "width":  1298,
+                                             "height":  1600,
+                                             "smallWidth":  519,
+                                             "alt":  "Flower Crowns — artwork 8 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "14b8255d182c",
+                                             "src":  "assets/14b8255d182c-1600.webp",
+                                             "small":  "assets/14b8255d182c-640.webp",
+                                             "width":  1410,
+                                             "height":  1600,
+                                             "smallWidth":  564,
+                                             "alt":  "Flower Crowns — artwork 9 by Adalia",
+                                             "href":  null
+                                         },
+                                         {
+                                             "id":  "9abe0cb54c59",
+                                             "src":  "assets/9abe0cb54c59-1600.webp",
+                                             "small":  "assets/9abe0cb54c59-640.webp",
+                                             "width":  1455,
+                                             "height":  1600,
+                                             "smallWidth":  582,
+                                             "alt":  "Flower Crowns — artwork 10 by Adalia",
+                                             "href":  null
+                                         }
+                                     ],
+                          "testimonials":  [
+
+                                           ]
+                      }
+                  ],
+    "commissions":  {
+                        "images":  [
+                                       {
+                                           "id":  "2308a99afaa5",
+                                           "src":  "assets/2308a99afaa5-1600.webp",
+                                           "small":  "assets/2308a99afaa5-640.webp",
+                                           "width":  702,
+                                           "height":  714,
+                                           "smallWidth":  629,
+                                           "alt":  "Backyards — custom artwork by Adalia",
+                                           "title":  "Backyards"
+                                       },
+                                       {
+                                           "id":  "f2772fd7d89b",
+                                           "src":  "assets/f2772fd7d89b-1600.webp",
+                                           "small":  "assets/f2772fd7d89b-640.webp",
+                                           "width":  738,
+                                           "height":  606,
+                                           "smallWidth":  640,
+                                           "alt":  "Home Decor — custom artwork by Adalia",
+                                           "title":  "Home Decor"
+                                       },
+                                       {
+                                           "id":  "a31b9de1a1e4",
+                                           "src":  "assets/a31b9de1a1e4-1600.webp",
+                                           "small":  "assets/a31b9de1a1e4-640.webp",
+                                           "width":  736,
+                                           "height":  788,
+                                           "smallWidth":  598,
+                                           "alt":  "Illustrations — custom artwork by Adalia",
+                                           "title":  "Illustrations"
+                                       },
+                                       {
+                                           "id":  "3cfb08d324b8",
+                                           "src":  "assets/3cfb08d324b8-1600.webp",
+                                           "small":  "assets/3cfb08d324b8-640.webp",
+                                           "width":  686,
+                                           "height":  550,
+                                           "smallWidth":  640,
+                                           "alt":  "Memories — custom artwork by Adalia",
+                                           "title":  "Memories"
+                                       },
+                                       {
+                                           "id":  "5acff015fdf4",
+                                           "src":  "assets/5acff015fdf4-1600.webp",
+                                           "small":  "assets/5acff015fdf4-640.webp",
+                                           "width":  344,
+                                           "height":  356,
+                                           "smallWidth":  344,
+                                           "alt":  "Tattoo Design — custom artwork by Adalia",
+                                           "title":  "Tattoo Design"
+                                       },
+                                       {
+                                           "id":  "30a7398e6c2b",
+                                           "src":  "assets/30a7398e6c2b-1600.webp",
+                                           "small":  "assets/30a7398e6c2b-640.webp",
+                                           "width":  870,
+                                           "height":  728,
+                                           "smallWidth":  640,
+                                           "alt":  "Business Decor — custom artwork by Adalia",
+                                           "title":  "Business Decor"
+                                       },
+                                       {
+                                           "id":  "75e9bcedb4d0",
+                                           "src":  "assets/75e9bcedb4d0-1600.webp",
+                                           "small":  "assets/75e9bcedb4d0-640.webp",
+                                           "width":  622,
+                                           "height":  402,
+                                           "smallWidth":  622,
+                                           "alt":  "Animals — custom artwork by Adalia",
+                                           "title":  "Animals"
+                                       },
+                                       {
+                                           "id":  "9f735b76f6df",
+                                           "src":  "assets/9f735b76f6df-1600.webp",
+                                           "small":  "assets/9f735b76f6df-640.webp",
+                                           "width":  702,
+                                           "height":  656,
+                                           "smallWidth":  640,
+                                           "alt":  "Homes — custom artwork by Adalia",
+                                           "title":  "Homes"
+                                       }
+                                   ],
+                        "introImages":  [
+                                            {
+                                                "id":  "3606ca234067",
+                                                "src":  "assets/3606ca234067-1600.webp",
+                                                "small":  "assets/3606ca234067-640.webp",
+                                                "width":  1600,
+                                                "height":  1115,
+                                                "smallWidth":  640,
+                                                "alt":  "Custom artwork by Adalia",
+                                                "href":  null
+                                            },
+                                            {
+                                                "id":  "3cca8edb831f",
+                                                "src":  "assets/3cca8edb831f-1600.webp",
+                                                "small":  "assets/3cca8edb831f-640.webp",
+                                                "width":  1202,
+                                                "height":  1600,
+                                                "smallWidth":  481,
+                                                "alt":  "Custom artwork by Adalia",
+                                                "href":  null
+                                            }
+                                        ]
+                    },
+    "testimonies":  {
+                        "featured":  [
+                                         {
+                                             "quote":  "\"Adalia was a delight to work with through the whole process of my mural! I needed a mural that fit a specific aesthetic for my shop - flat, graphic \u0026 colorful. She helped design, provided a mockup, always arrived on schedule \u0026 did the job with craftsmanship \u0026 cleanliness. She is very receptive to feedback through her artistic process \u0026 asked questions to make sure she was meeting my expectations! The mural has received many compliments \u0026 brings so much color \u0026 interest to the shop. If you\u0027re considering mural artists don\u0027t look any further, book with Adalia - you won\u0027t regret it!\"",
+                                             "credit":  "-  Julia McGuigan Owner of Julia M Illustrates",
+                                             "links":  [
+                                                           {
+                                                               "label":  "Julia M Illustrates",
+                                                               "href":  "https://juliamillustrates.com"
+                                                           }
+                                                       ]
+                                         },
+                                         {
+                                             "quote":  "When I met Adalia, I immediately knew she was talented. She drew a custom commission piece of my dad and his mother who passed away. He still cherishes it to this day. She also drew a photo of my husband and I that I’ll personally treasure forever. I will be using her services again and would highly recommend her!",
+                                             "credit":  "- Rosie G",
+                                             "links":  [
+
+                                                       ]
+                                         },
+                                         {
+                                             "quote":  "Adalia collaborated with us over serval months to adorn our Benson cafe with her ethereal murals. She worked in a variety of mediums to fill the green and purple bathroom walls \u0026 ceilings with doodles of everything imaginable and made our wildest dreams for these spaces come true!",
+                                             "credit":  "- Adam & Rachel Owners of Edge of the Universe Café",
+                                             "links":  [
+                                                           {
+                                                               "label":  "Edge of the Universe Café",
+                                                               "href":  "https://www.edgeoftheuniversebff.com"
+                                                           }
+                                                       ]
+                                         },
+                                         {
+                                             "quote":  "Adalia uses color, form and design to bring joyful and expressive art!! It makes me smile everyday I see it! Her talented art that hangs on my walls always receives the highest compliments!",
+                                             "credit":  "— Shannon F",
+                                             "links":  [
+
+                                                       ]
+                                         }
+                                     ],
+                        "featuredImages":  [
+                                               {
+                                                   "id":  "fdf216209606",
+                                                   "src":  "assets/fdf216209606-1600.webp",
+                                                   "small":  "assets/fdf216209606-640.webp",
+                                                   "width":  1600,
+                                                   "height":  1557,
+                                                   "smallWidth":  640,
+                                                   "alt":  "Commissioned artwork by Adalia",
+                                                   "href":  null
+                                               },
+                                               {
+                                                   "id":  "fa2a186f7bbd",
+                                                   "src":  "assets/fa2a186f7bbd-1600.webp",
+                                                   "small":  "assets/fa2a186f7bbd-640.webp",
+                                                   "width":  1600,
+                                                   "height":  1200,
+                                                   "smallWidth":  640,
+                                                   "alt":  "Commissioned artwork by Adalia",
+                                                   "href":  null
+                                               },
+                                               {
+                                                   "id":  "335912af59a8",
+                                                   "src":  "assets/335912af59a8-1600.webp",
+                                                   "small":  "assets/335912af59a8-640.webp",
+                                                   "width":  1197,
+                                                   "height":  1600,
+                                                   "smallWidth":  479,
+                                                   "alt":  "Commissioned artwork by Adalia",
+                                                   "href":  null
+                                               },
+                                               {
+                                                   "id":  "935530ad5dfc",
+                                                   "src":  "assets/935530ad5dfc-1600.webp",
+                                                   "small":  "assets/935530ad5dfc-640.webp",
+                                                   "width":  1600,
+                                                   "height":  1200,
+                                                   "smallWidth":  640,
+                                                   "alt":  "Commissioned artwork by Adalia",
+                                                   "href":  null
+                                               },
+                                               {
+                                                   "id":  "37c6671bef4f",
+                                                   "src":  "assets/37c6671bef4f-1600.webp",
+                                                   "small":  "assets/37c6671bef4f-640.webp",
+                                                   "width":  1200,
+                                                   "height":  1600,
+                                                   "smallWidth":  480,
+                                                   "alt":  "Commissioned artwork by Adalia",
+                                                   "href":  null
+                                               },
+                                               {
+                                                   "id":  "07276ca873e3",
+                                                   "src":  "assets/07276ca873e3-1600.webp",
+                                                   "small":  "assets/07276ca873e3-640.webp",
+                                                   "width":  1600,
+                                                   "height":  1200,
+                                                   "smallWidth":  640,
+                                                   "alt":  "Commissioned artwork by Adalia",
+                                                   "href":  null
+                                               },
+                                               {
+                                                   "id":  "4eac05f9f826",
+                                                   "src":  "assets/4eac05f9f826-1600.webp",
+                                                   "small":  "assets/4eac05f9f826-640.webp",
+                                                   "width":  1545,
+                                                   "height":  1600,
+                                                   "smallWidth":  618,
+                                                   "alt":  "Commissioned artwork by Adalia",
+                                                   "href":  null
+                                               },
+                                               {
+                                                   "id":  "5420133813ac",
+                                                   "src":  "assets/5420133813ac-1600.webp",
+                                                   "small":  "assets/5420133813ac-640.webp",
+                                                   "width":  1600,
+                                                   "height":  1534,
+                                                   "smallWidth":  640,
+                                                   "alt":  "Commissioned artwork by Adalia",
+                                                   "href":  null
+                                               },
+                                               {
+                                                   "id":  "c9ff4f09adb6",
+                                                   "src":  "assets/c9ff4f09adb6-1600.webp",
+                                                   "small":  "assets/c9ff4f09adb6-640.webp",
+                                                   "width":  1024,
+                                                   "height":  1161,
+                                                   "smallWidth":  564,
+                                                   "alt":  "Commissioned artwork by Adalia",
+                                                   "href":  null
+                                               }
+                                           ],
+                        "more":  [
+                                     {
+                                         "quote":  "I am so pleased with Adalia’s creative watercolor portraits. She chose to emphasize hair and face shapes which made it simple and creatively unique. She is so talented!! - Heidi F",
+                                         "image":  {
+                                                       "id":  "b1adb7127e3b",
+                                                       "src":  "assets/b1adb7127e3b-1600.webp",
+                                                       "small":  "assets/b1adb7127e3b-640.webp",
+                                                       "width":  798,
+                                                       "height":  894,
+                                                       "smallWidth":  571,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     },
+                                     {
+                                         "quote":  "Adalia took a meaningful photo of my husband and I and brought it to life through her artwork. She did an amazing job of recreating a special moment that we will always treasure. Adalia possess the unique ability to genuinely get to know her clients and tailor her artwork to their individual taste and needs. - Laura F",
+                                         "image":  {
+                                                       "id":  "c5e0772a5a48",
+                                                       "src":  "assets/c5e0772a5a48-1600.webp",
+                                                       "small":  "assets/c5e0772a5a48-640.webp",
+                                                       "width":  1211,
+                                                       "height":  1600,
+                                                       "smallWidth":  484,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     },
+                                     {
+                                         "quote":  "Adalia has been a life-long friend and through the years, I’ve had the pleasure of watching her art transform and mature. She’s gifted me several pieces including pencil-sketched portraits of myself & my husband and I, some vibrant water color animals, and a painting of my husband and I’s new home. Each of Adalia’s pieces is as intricate as they are diverse in their media! What I love most about Adalia’s work is the feeling that she created it for me just by looking at it. No one else in the world has what she’s made - it is unique, original, and made with so much love and care. - Niki A",
+                                         "image":  {
+                                                       "id":  "6af1f27ff32a",
+                                                       "src":  "assets/6af1f27ff32a-1600.webp",
+                                                       "small":  "assets/6af1f27ff32a-640.webp",
+                                                       "width":  1600,
+                                                       "height":  1200,
+                                                       "smallWidth":  640,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     },
+                                     {
+                                         "quote":  "We are thrilled with the portrait drawing that Adalia did of my husband and I. It’s impressive how she captured personality and character with just a pencil. We could not ask for higher quality work! It’s literally exactly what we were hoping it would be, and somehow even better. Thanks, Adalia. - Cathie M",
+                                         "image":  {
+                                                       "id":  "95be35184c9f",
+                                                       "src":  "assets/95be35184c9f-1600.webp",
+                                                       "small":  "assets/95be35184c9f-640.webp",
+                                                       "width":  1600,
+                                                       "height":  1200,
+                                                       "smallWidth":  640,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     },
+                                     {
+                                         "quote":  "Adalia has always delivered beautiful work in a timely manner. She has diverse abilities and style. She has done a great job customizing her work to fit my desires. I love seeing all the work she’s done over the years for my wedding shower invites, on business cards, and around my home. - CJ Radford",
+                                         "image":  {
+                                                       "id":  "67f91d587cfa",
+                                                       "src":  "assets/67f91d587cfa-1600.webp",
+                                                       "small":  "assets/67f91d587cfa-640.webp",
+                                                       "width":  1409,
+                                                       "height":  1600,
+                                                       "smallWidth":  564,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     },
+                                     {
+                                         "quote":  "Adalia was the first person I thought of when we needed a wall decorated for our wedding. She knows how to capture any vision so well. She even got to the venue early and completed the wall (beyond our wildest dreams amazing). I highly recommend her not only for her artistic and creative abilities, but for her can-do attitude and constant smiles! - Hannah P",
+                                         "image":  {
+                                                       "id":  "578d33a413ef",
+                                                       "src":  "assets/578d33a413ef-1600.webp",
+                                                       "small":  "assets/578d33a413ef-640.webp",
+                                                       "width":  1600,
+                                                       "height":  1160,
+                                                       "smallWidth":  640,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     },
+                                     {
+                                         "quote":  "Adalia’s art is creative, beautiful, and timeless. I have several commissioned pieces of hers throughout my home in various mediums, which always receive notice and complements. I have also commissioned her to create art as gifts for friends. She is easy to work with, responsive, and timely, and her pieces are always loved by the recipients. Her artwork is a fantastic choice for your own needs and for unique gifts! - Moriah C",
+                                         "image":  {
+                                                       "id":  "5de8a443f130",
+                                                       "src":  "assets/5de8a443f130-1600.webp",
+                                                       "small":  "assets/5de8a443f130-640.webp",
+                                                       "width":  1600,
+                                                       "height":  1200,
+                                                       "smallWidth":  640,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     },
+                                     {
+                                         "quote":  "Adalia did a fantastic job designing a logo and graphics for my website! Her lines and shapes formed clear and memorable visuals for my product needs. I would happily recommend her to anyone looking for top-notch digital artwork. - David S",
+                                         "image":  {
+                                                       "id":  "0f0042c42da5",
+                                                       "src":  "assets/0f0042c42da5-1600.webp",
+                                                       "small":  "assets/0f0042c42da5-640.webp",
+                                                       "width":  937,
+                                                       "height":  741,
+                                                       "smallWidth":  640,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     },
+                                     {
+                                         "quote":  "I commissioned Adalia to draw my friend's daughter & her fiancé as a wedding gift. I wanted a gift that was truly unique, personal, and different than any other gift. The finished piece was exquisite! The drawing captured their personalities and love for each other in an amazing way. I could not have found a more perfect present for them and they loved it! - Jane S",
+                                         "image":  {
+                                                       "id":  "bf706fc695fa",
+                                                       "src":  "assets/bf706fc695fa-1600.webp",
+                                                       "small":  "assets/bf706fc695fa-640.webp",
+                                                       "width":  1600,
+                                                       "height":  1169,
+                                                       "smallWidth":  640,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     },
+                                     {
+                                         "quote":  "Adalia was a delight to work with through the whole process of my mural!  She helped design, provided a mockup, always arrived on schedule and did the job with craftsmanship and cleanliness. She is very receptive to feedback through her artistic process and asked questions to make sure she was meeting the expectations I had in mind! If you\u0027re considering mural artists don\u0027t look any further, book with Adalia - you won\u0027t regret it! - Julia M",
+                                         "image":  {
+                                                       "id":  "8f1f4586dafd",
+                                                       "src":  "assets/8f1f4586dafd-1600.webp",
+                                                       "small":  "assets/8f1f4586dafd-640.webp",
+                                                       "width":  1200,
+                                                       "height":  1600,
+                                                       "smallWidth":  480,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     },
+                                     {
+                                         "quote":  "“I absolutely love it!!!” -Payton M, Owner of Forged Woodworks",
+                                         "image":  {
+                                                       "id":  "35466fc3a040",
+                                                       "src":  "assets/35466fc3a040-1600.webp",
+                                                       "small":  "assets/35466fc3a040-640.webp",
+                                                       "width":  1121,
+                                                       "height":  1600,
+                                                       "smallWidth":  448,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     },
+                                     {
+                                         "quote":  "Thank you so incredibly much for the beautiful piece of art! You captured the essence of our time in Omaha perfectly, encapsulating so many memories in one piece of art!  - Mackenzie H",
+                                         "image":  {
+                                                       "id":  "6f0bdac31b8a",
+                                                       "src":  "assets/6f0bdac31b8a-1600.webp",
+                                                       "small":  "assets/6f0bdac31b8a-640.webp",
+                                                       "width":  1600,
+                                                       "height":  1185,
+                                                       "smallWidth":  640,
+                                                       "alt":  "Commissioned artwork by Adalia"
+                                                   }
+                                     }
+                                 ]
+                    },
+    "contact":  {
+                    "image":  {
+                                  "id":  "652331d6ecf4",
+                                  "src":  "assets/652331d6ecf4-1600.webp",
+                                  "small":  "assets/652331d6ecf4-640.webp",
+                                  "width":  1202,
+                                  "height":  1600,
+                                  "smallWidth":  481,
+                                  "alt":  "Adalia, artist based in Omaha, Nebraska",
+                                  "href":  null
+                              }
+                }
 }
